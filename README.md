@@ -1,7 +1,7 @@
 # 👨‍💻 Ryan Eminem
 **`Desenvolvedor FullStack`**
 
-Sou o Ryan tenho 21 Anos estou cursando Desenvolvimento de Sistemas na Etec 
+Sou o Ryan, tenho 21 anos e estou cursando Desenvolvimento de Sistemas na ETEC.
 <div> 
   <a href="https://www.instagram.com/ryan.frias00/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/ryan-eminem-307a6b368/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
